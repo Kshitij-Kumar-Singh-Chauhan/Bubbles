@@ -1,9 +1,0 @@
-name=Dodge
-stars=80,110
-bubble=-1.564,3.015
-bubble=-0.425,2.238
-bubble=1.774,3.466
-bubble=-1.549,-3.902
-bubble=1.564,-4.038
-bubble=-0.471,-3.015
-group=0
